@@ -1,3 +1,11 @@
+<h1> Create Campaign User Interface </h1>
+
+<p> This web app is created in React.js </p>
+<p> Users can use it to create campaigns for their organizations. </p>
+<p> The web-app displays all the details of different campaigns. </p>
+<p> Users can add, update and delete campaigns as per their needs. </p>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
