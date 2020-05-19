@@ -1,4 +1,4 @@
-<h1> Create Campaign User Interface </h1>
+<h1> Create Campaign App </h1>
 
 <p> This web app is created in React.js </p>
 <p> Users can use it to create campaigns for their organizations. </p>
