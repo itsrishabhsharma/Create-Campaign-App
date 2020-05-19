@@ -1,0 +1,43 @@
+.loginContainer {
+  background-image: url('/assets/images/loginbg.jpg');
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: -webkit-fill-available;
+}
+.loginContainer .textPart {
+  width: 50%;
+  text-align: center;
+}
+.loginContainer .textPart h2 {
+  font-size: xx-large;
+}
+.loginContainer .textPart span {
+  font-size: x-large;
+}
+.loginContainer .formSection {
+  background: #ffffffdb;
+  width: 25%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.loginContainer .formSection form {
+  text-align: center;
+  display: inherit;
+  align-items: inherit;
+  flex-direction: inherit;
+  justify-content: inherit;
+}
+.loginContainer .formSection form input {
+  border-style: solid;
+  text-align: center;
+  width: 250px;
+  font-size: 16px;
+  margin-bottom: 10px;
+}

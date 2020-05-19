@@ -1,0 +1,61 @@
+
+.campaignb 
+
+{
+position: fixed;
+
+display: inline-block;
+}
+
+
+
+
+
+.topsection {
+
+    float: left;
+    padding-left: 90px;
+}
+
+.topsection .name {
+
+    font-size: x-large;
+
+
+}
+
+.midsection  {
+
+    padding-left: 90px;
+    float: left;
+    padding-right: 90px;
+
+}
+
+.midsection .desc  {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+    'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    text-align: left;
+
+
+}
+
+
+.bottomsection  {
+
+    padding-left: 90px;
+    float: left;
+    padding-right: 90px;
+
+}
+
+.bottomsection .desc  {
+
+    
+    text-align: left;
+    font-size: smaller;
+
+
+}
